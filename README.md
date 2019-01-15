@@ -1,4 +1,4 @@
-# Chapter 0
+# Lab 0
 
 For this assignment, we are going to familiarize ourselves with our homework submission system, a technology used throughout the industry: Git!
 
